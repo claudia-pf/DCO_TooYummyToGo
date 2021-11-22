@@ -4,8 +4,7 @@ Trabalho realizado em contexto académico para a UC Desenvolvimento Centrado em 
 
 Autores:
 
-  Cláudia Ferreira 
-  
+  Cláudia Ferreira <br/>
   Catarina Fernandes
   
 ---------------------------------------
